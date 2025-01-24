@@ -15,4 +15,5 @@ Resources to look at:
 * https://nodejs.org/en
 * https://docs.ethers.org/v5/
 * https://medium.com/codex/testing-a-smart-contract-with-hardhat-%EF%B8%8F-b7edd925891
-  
+* https://archive.trufflesuite.com/ganache/
+* https://medium.com/@nafkem/how-to-create-and-deploy-an-erc-20-token-on-the-ethereum-blockchain-d3f2232a9d32
