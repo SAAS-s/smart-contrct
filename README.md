@@ -7,6 +7,7 @@ Code stack used:
 * Truffle
 * Ganache
 * Rinkeyby
+* Waffle
 
 Resources to look at: 
 * https://www.youtube.com/watch?v=SSo_EIwHSd4
@@ -17,4 +18,5 @@ Resources to look at:
 * https://medium.com/codex/testing-a-smart-contract-with-hardhat-%EF%B8%8F-b7edd925891
 * https://docs.openzeppelin.com/contracts/4.x/erc20
 * https://archive.trufflesuite.com/ganache/
+* https://ethereum-waffle.readthedocs.io/en/latest/getting-started.html#:~:text=After%20you%20have%20successfully%20authored,matchers%20only%20work%20with%20chai%20.
 * https://medium.com/@nafkem/how-to-create-and-deploy-an-erc-20-token-on-the-ethereum-blockchain-d3f2232a9d32
