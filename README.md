@@ -14,6 +14,7 @@ Resources to look at:
 * https://solidity-by-example.org/
 * https://cryptozombies.io/
 * https://nodejs.org/en
+* https://web3js.readthedocs.io/
 * https://docs.ethers.org/v5/
 * https://github.com/alessandroaw/ethersjs-examples
 * https://medium.com/codex/testing-a-smart-contract-with-hardhat-%EF%B8%8F-b7edd925891
