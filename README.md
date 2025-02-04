@@ -15,6 +15,7 @@ Resources to look at:
 * https://cryptozombies.io/
 * https://nodejs.org/en
 * https://docs.ethers.org/v5/
+* https://github.com/alessandroaw/ethersjs-examples
 * https://medium.com/codex/testing-a-smart-contract-with-hardhat-%EF%B8%8F-b7edd925891
 * https://docs.openzeppelin.com/contracts/4.x/erc20
 * https://archive.trufflesuite.com/ganache/
